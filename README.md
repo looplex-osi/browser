@@ -13,7 +13,7 @@
 
 # About
 
-`@looplex/common` plays an important role in our platform engineering mission. It's useful at both browser and server environments. Rest assured knowing that it is embedded on the runtime you are using.
+`@looplex/browser` plays an important role in our platform engineering mission. It's useful at browser environments.
 
 # Features
 

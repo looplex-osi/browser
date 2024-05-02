@@ -1,7 +1,7 @@
 {
-  "name": "@looplex/common",
+  "name": "@looplex/browser",
   "version": "0.0.9",
-  "description": "Common library useful for building things like task automations and workflows",
+  "description": "Browser (client-side) library to facilitate sharing code between `code/page` or `puppeteer`.",
   "source": "src/index.mjs",
   "main": "dist/main.cjs.js",
   "module": "dist/module.mjs",
@@ -20,7 +20,7 @@
   ],
   "keywords": [],
   "author": "Fabio Zendhi Nagao",
-  "license": "ISC",
+  "license": "Looplex Limited Public License",
   "devDependencies": {
     "@commitlint/cli": "^19.2.1",
     "@commitlint/config-conventional": "^19.1.0",
