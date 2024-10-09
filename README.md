@@ -29,10 +29,10 @@
 
 # Usage
 
-`@looplex/common` is available and ready for use on all Looplex enviornment. But if, for some reason, you want to leverage it as a standalone, the easiest way to install is by running:
+`@looplex/browser` is available and ready for use on all Looplex client enviornment. But if, for some reason, you want to leverage it as a standalone, the easiest way to install is by running:
 
 ```bash
-npm install @looplex/common
+npm install @looplex/browser
 ```
 
 # Standards and Rules
